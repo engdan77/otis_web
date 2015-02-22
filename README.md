@@ -37,4 +37,4 @@ response_meta_author = 'Daniel Engvall <daniel@engvalls.eu>'
 Pictures
 -------------------------
 *Example of current status of sensors*
-![Main Board](https://github.com/engdan77/edoWeb/blob/master/pics/edoWeb_sensors.png
+![Sensors](https://github.com/engdan77/edoWeb/blob/master/pics/edoWeb_sensors.png)
