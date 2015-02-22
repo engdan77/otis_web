@@ -1,3 +1,21 @@
+edoWeb
+==============
+
+
+Background
+--------------
+
+This project meant to be used for various purpose, but currently acts a front-end to edoAutoHome (home-monitoring)
+https://github.com/engdan77/edoautohome
+
+
+----------------------
+Installing the dependencies and edoAutoHome
+----------------------
+
+1) Follow instrunctions found on http://web2py.com/books/default/chapter/29/13/deployment-recipes to install Web2Py framework
+2) Enter "application" folder and retrieve source from github
+3) Adjust the modules/edoConf.py to reflect your database and URL's
 
 
 ```
