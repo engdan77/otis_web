@@ -14,11 +14,15 @@ Installing the dependencies and edoAutoHome
 ----------------------
 
 1) Follow instrunctions found on http://web2py.com/books/default/chapter/29/13/deployment-recipes to install Web2Py framework
+
 2) Enter "application" folder and retrieve source from github
+
 ```
 # git clone https://github.com/engdan77/edoWeb.git
 ```
+
 3) Adjust the modules/edoConf.py to reflect your database and URL's
+
 ```
 # vim modules/edoConf.py
 
