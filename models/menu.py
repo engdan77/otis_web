@@ -5,7 +5,7 @@
 ## Customize your APP title, subtitle and menus here
 #########################################################################
 
-response.logo = A(B('edoWeb'),XML('&trade;&nbsp;'),
+response.logo = A(B('otis_web'),XML('&trade;&nbsp;'),
                   _class="brand",_href=edoConf.edoweb_url)
 response.title = request.application.replace('_',' ').title()
 response.subtitle = ''

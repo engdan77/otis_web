@@ -1,4 +1,4 @@
-edoWeb
+otis_web
 ==============
 
 
@@ -18,7 +18,7 @@ Installing the dependencies and edoAutoHome
 2) Enter "application" folder and retrieve source from github
 
 ```
-# git clone https://github.com/engdan77/edoWeb.git
+# git clone https://github.com/engdan77/otis_web.git
 ```
 
 3) Adjust the modules/edoConf.py to reflect your database and URL's
@@ -33,7 +33,7 @@ from gluon import *
 db_AH = 'mysql://user:pass@192.168.0.1/edoAutoHome'
 mail_settings_sender = 'xxxx@gmail.com'
 mail_settings_login = 'xxxx@gmail.com:yyyyyy'
-edoweb_url = "http://xxxx/"
+otis_web_url = "http://xxxx/"
 response_meta_author = 'Daniel Engvall <daniel@engvalls.eu>'
 ```
 
